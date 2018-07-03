@@ -1,0 +1,16 @@
+Machine Ideas
+
+BeOS:
+* x86 compatibility list: http://www.tycomsystems.com/beos/x86_ready.html
+* PPC compatibility list: http://www.tycomsystems.com/beos/ppc_ready.html
+
+OS/2:
+* should be a lot of late 90s/early 00s machines
+* specifics need to be investigated
+
+AcornOS:
+* works on a RaspberryPi, could just set up that
+* otherwise, practically all early RISC machines ran AcornOS
+
+NeXTStep:
+* acquire a NeXT cube
