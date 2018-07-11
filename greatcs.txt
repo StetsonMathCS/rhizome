@@ -1,0 +1,156 @@
+          ____ ____ ____ ____ ___    _ ___  ____ ____ ____    _ _  _
+          | __ |__/ |___ |__|  |     | |  \ |___ |__| [__     | |\ |
+          |__] |  \ |___ |  |  |     | |__/ |___ |  | ___]    | | \|
+
+   ____ ____ _  _ ___  _  _ ___ ____ ____    ____ ____ _ ____ _  _ ____ ____
+   |    |  | |\/| |__] |  |  |  |___ |__/    [__  |    | |___ |\ | |    |___
+   |___ |__| |  | |    |__|  |  |___ |  \    ___] |___ | |___ | \| |___ |___
+
+
+** MEANS OF EXPRESSION **
+-------------------------
+
+** Algorithmic, Computation **
+
+# Machine code
+
+Exemplars:
+
+- Altair 8800
+
+# Assembly
+
+Exemplars:
+
+- PDP 8 (PiDP8)
+
+# Concatenative programming
+
+Exemplars:
+
+- FORTH (set up a PC compatible?)
+
+# Procedural programming
+
+Exemplars:
+
+- C (DOS machine)
+
+# Object-oriented programming
+
+Exemplars:
+
+- Smalltalk (Alto simulator?)
+
+# Functional programming
+
+Exemplars:
+
+- Symbolics Genera (emulator)
+  - not purely functional but close enough
+- Emacs Lisp (rhizome server)
+- Haskell (rhizome server)
+
+# Logic programming
+
+Exemplars:
+
+- Prolog (rhizome server)
+
+# Array programming
+
+- APL (rhizome server? perhaps Unicomp keyboard)
+- J (rhizome server)
+
+# Beginners programming
+
+Exemplars:
+
+- BASIC (8-bit machines)
+- Python (rhizome server)
+- Logo (Apple II?)
+
+** Command and Query Interfaces **
+
+# Minimal REPLs
+
+Exemplars:
+
+- Early Unix shell (Unix v6 emulator?)
+  - teletype ideally
+- FORTH
+  - line-oriented
+- CP/M
+  - represents DOS as well
+
+# Sophisticated REPLs
+
+Exemplars:
+
+- TOPS-20 (emulator)
+- Prolog
+  - querying specifcally
+- Infocom games
+  - Zork
+
+# Languages
+
+- SQL (rhizome server)
+- Prolog (rhizome server)
+- Semantic Web (SPARQL?) (rhizome server)
+
+# Line and stream editors
+
+- Ed (Unix v6?)
+- Sed (Unix v6?)
+
+# Screen editors (word processors)
+
+Exemplars:
+
+- WordStar (DOS)
+- Bravo (Alto)
+- Microsoft Word (DOS, for WYSIWYG)
+- TECO (ITS emulator?)
+- Emacs (ITS? or rhizome server)
+- Vi (Unix v6?)
+- Acme (Plan 9)
+
+# Markup
+
+Exemplars:
+
+- SGML (precursor to HTML)
+- HTML 2.0 (Mosaic? Windows 3.1?)
+- TeX (rhizome server)
+- Markdown (rhizome server)
+
+
+** MEANS OF MANAGEMENT **
+-------------------------
+
+# Databases
+
+Exemplars:
+
+- dBase II (DOS)
+- MySQL (rhizome server)
+- ZigZag?
+
+# Spreadsheets
+
+Exemplars:
+
+- VisiCalc (Apple II)
+- Lotus 123 (DOS)
+
+# Window Management (GUIs)
+
+Exemplars:
+
+- TWM (Linux X)
+- Ratpoison (Linux X)
+- Fluxbox (Linux X)
+- dwm (Linux X)
+- NeXTSTEP (NeXT Station, or GNUstep with Window Maker)
+- tmux (rhizome server)

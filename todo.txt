@@ -1,0 +1,14 @@
+OS installs:
+
+- Plan 9 (laptop)
+- Arch Linux (rhizome server)
+- Debian Linux (laptop, for window managers)
+- Forth system (one of the compaqs?)
+
+Virtual machine installs:
+
+- ITS
+- TOPS-20
+- Unix v6
+- Symbolics Genera
+- Xerox Alto
