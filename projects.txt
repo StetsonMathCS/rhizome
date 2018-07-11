@@ -1,0 +1,5 @@
+Projects, probably for senior research
+
+- Implement the ZigZag patent (now expired): https://patents.google.com/patent/US6262736
+
+
